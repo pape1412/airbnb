@@ -26,7 +26,7 @@ The following notebooks from the _notebooks_ folder were used throughout the ana
 - q2_airbnb_income.ipynb
 - q3_airbnb_income_features.ipynb
 ```
-The notebooks include the code to answer all three questions as well as markdown cells that outline the underlying thought process and a discussion of the obtained results. The folder _data_ includes a .geojson object that was used to draw a choropleth map of Berlin neighbourhood groups:
+The notebooks include the code to answer all three questions as well as markdown cells that outline the underlying thought process and a discussion of the obtained results. The folder _data_ includes a ```.geojson object that was used to draw a choropleth map of Berlin neighbourhood groups:
 ```
 - berlin_neighbourhood_groups.geojson
 ```
