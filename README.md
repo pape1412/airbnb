@@ -29,6 +29,7 @@ I've created two maps:
 - airbnb_income_neighbourhoods.html
 - airbnb_prices_neighbourhoods.html
 
+## Process
 ## Findings
 ## Acknowledgements
 
