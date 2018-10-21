@@ -3,7 +3,7 @@ Exploration of data from Airbnb.
 
 ## Installation
 ### Libraries
-I've mainly used standard python libraries such ``` numpy, pandas, math ``` throughout the project. I've also used ```matplotlib, seaborn``` for plotting as well as ```os, json, folium``` for creating choropleth maps.
+I've mainly used standard python libraries such ```numpy, pandas & math``` throughout the project. I've also used ```matplotlib & seaborn``` for plotting as well as ```os, json & folium``` for creating choropleth maps.
 
 ### Data
 The data set used in this project is publicly available at:
@@ -18,18 +18,17 @@ In order to practice my communication skills I've decided to answer three questi
 * What factors influence the income of an Airbnb apartment in Berlin?
 
 ## Files
-The following files were used throughout the analysis of the data set:
+The following notebooks were used throughout the analysis of the data set:
 - q1_airbnb_popularity.ipynb
 - q2_airbnb_income.ipynb
 - q3_airbnb_income_features.ipynb
-
-Despite that, I've used a geojson file in order to create the choropleth maps of Berlin:
-- berlin_neighbourhood_groups.geojson
-There are two more geojson files of a neighbourhoods on a more granular level as well as one for ZIP codes.
-
-I've created two maps:
-- airbnb_income_neighbourhoods.html
-- airbnb_prices_neighbourhoods.html
+The notebooks include the code to answer all three questions as well as markdown cells that outline the underlying thought process and a discussion of the obtained results.
+The folder _data_ includes a .geojson object that was used to draw a choropleth map of Berlin neighbourhood groups:
+* berlin_neighbourhood_groups.geojson
+Last but not least, the folder _results_ contains three graphical outputs of the analysis (one for each question) which were used to present the findings of this project in a Medium blog post:
+* airbnb_income_neighbourhoods.html
+* correlations.png
+* popularity.png
 
 ## Process
 ## Findings
