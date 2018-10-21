@@ -17,8 +17,10 @@ In order to practice my communication skills I've decided to answer three questi
 * How much money can you make with Airbnb apartment in Berlin?
 * What factors influence the income of an Airbnb apartment in Berlin?
 
+While answering the questions above I tried to stick to the CRISP-DM process.
+
 ## Files
-The following notebooks were used throughout the analysis of the data set:
+The following notebooks from the _notebooks_ folder were used throughout the analysis of the data set:
 ```
 - q1_airbnb_popularity.ipynb
 - q2_airbnb_income.ipynb
@@ -35,7 +37,7 @@ Last but not least, the folder _results_ contains three graphical outputs of the
 - popularity.png
 ```
 
-## Process
 ## Findings
-## Acknowledgements
 
+## Acknowledgements
+I'd like to thank http://insideairbnb.com for providing the data for public use (following the link provides additional descriptions regarding the data set as well as licensing information). Also, I'd like to thank https://www.technologiestiftung-berlin.de/ for providing the ```.geojson```object used to draw the choropleth map of Berlin neighbourhood groups.
