@@ -19,16 +19,21 @@ In order to practice my communication skills I've decided to answer three questi
 
 ## Files
 The following notebooks were used throughout the analysis of the data set:
+```
 - q1_airbnb_popularity.ipynb
 - q2_airbnb_income.ipynb
 - q3_airbnb_income_features.ipynb
-The notebooks include the code to answer all three questions as well as markdown cells that outline the underlying thought process and a discussion of the obtained results.
-The folder _data_ includes a .geojson object that was used to draw a choropleth map of Berlin neighbourhood groups:
-* berlin_neighbourhood_groups.geojson
+```
+The notebooks include the code to answer all three questions as well as markdown cells that outline the underlying thought process and a discussion of the obtained results. The folder _data_ includes a .geojson object that was used to draw a choropleth map of Berlin neighbourhood groups:
+```
+- berlin_neighbourhood_groups.geojson
+```
 Last but not least, the folder _results_ contains three graphical outputs of the analysis (one for each question) which were used to present the findings of this project in a Medium blog post:
-* airbnb_income_neighbourhoods.html
-* correlations.png
-* popularity.png
+```
+- airbnb_income_neighbourhoods.html
+- correlations.png
+- popularity.png
+```
 
 ## Process
 ## Findings
