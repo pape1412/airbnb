@@ -26,7 +26,7 @@ The following notebooks from the _notebooks_ folder were used throughout the ana
 - q2_airbnb_income.ipynb
 - q3_airbnb_income_features.ipynb
 ```
-The notebooks include the code to answer all three questions as well as markdown cells that outline the underlying thought process and a discussion of the obtained results. The folder _data_ includes a ```.geojson object that was used to draw a choropleth map of Berlin neighbourhood groups:
+The notebooks include the code to answer all three questions as well as markdown cells that outline the underlying thought process and a discussion of the obtained results. The folder _data_ includes a ```.geojson``` object that was used to draw a choropleth map of Berlin districts (in the data set referred to as neighbourhood groups):
 ```
 - berlin_neighbourhood_groups.geojson
 ```
@@ -38,6 +38,9 @@ Last but not least, the folder _results_ contains three graphical outputs of the
 ```
 
 ## Findings
+Out of 12 districts in Berlin, _Mitte_ appears to be the most popular one by far. With on average _$ 115 per month_ this district, located in the heart of Berlin, is also among the top four in terms of income one can make by renting out an apartment on Airbnb. The only other district in which apartments make more money is _Marzahn-Hellersdorf_ with _$ 126 per month_. Despite obvious influencing factors on an apartment's monthly income I could find weak positive correlations with the _apartment size_ as well as _superhost status_ of an Airbnb host.
+
+For more detailed findings please refer to the _notebooks_ folder and [this]() Medium blog post.
 
 ## Acknowledgements
-I'd like to thank http://insideairbnb.com for providing the data for public use (following the link provides additional descriptions regarding the data set as well as licensing information). Also, I'd like to thank https://www.technologiestiftung-berlin.de/ for providing the ```.geojson```object used to draw the choropleth map of Berlin neighbourhood groups.
+I'd like to thank http://insideairbnb.com for providing the data for public use (following the link provides additional descriptions regarding the data set as well as licensing information). Also, I'd like to thank https://www.technologiestiftung-berlin.de/ for providing the ```.geojson```object used to draw the choropleth map of Berlin districts.
