@@ -10,9 +10,7 @@ The data set used in this project is publicly available at:
 - http://insideairbnb.com/get-the-data.html
 
 ## Motivation
-The initial motivation for this project came from my Data Scientist Nanodegree Program at Udacity. Becoming a data scientist does not only mean learning how to build fancy machine learning models, but also how to communicate results. Whether it's an analysis you've made, a model you've built or a software you've programmed, your work will be useless unless the people you work with are able to understand what's going on.
-
-In order to practice my communication skills I've decided to answer three questions around an Airbnb data set while using GitHub for end-to-end project documentation as well as a Medium blog post for presenting the results. As I am German I've decided to use data of Airbnb listings from Berlin. The three questions I was interested in were:
+Whether it's an analysis made, a model built or a software programmed, your work will be useless unless the people you work with understand what you've done. Parts of my Data Scientist Nanodegree programm at [Udacity](https://eu.udacity.com) were about practicing communication skills thus I've decided to do so by answering three questions around an Airbnb data set while using GitHub for end-to-end project documentation as well as a Medium blog post for presenting the results. Being German I've decided to use data of Airbnb listings from Berlin. The three questions I was interested in were:
 * What are the most popular Airbnb locations in Berlin?
 * How much money can you make with Airbnb apartment in Berlin?
 * What factors influence the income of an Airbnb apartment in Berlin?
@@ -43,4 +41,4 @@ Out of 12 districts in Berlin, _Mitte_ appears to be the most popular one by far
 For more detailed findings please refer to the _notebooks_ folder and [this](https://medium.com/@patrickpeltier/renting-out-your-apartment-in-berlin-3c7a6d685392) Medium blog post.
 
 ## Acknowledgements
-This mini project was mainly fueled by publicly available data at http://insideairbnb.com (following the link provides additional descriptions regarding the data set as well as licensing information). Also, the ```.geojson```object used to draw the choropleth map of Berlin districts was provided by https://www.technologiestiftung-berlin.de/.
+This mini project was one of the projects I've worked on during my Data Scientist Nanodegree programm at [Udacity](https://eu.udacity.com). It was mainly fueled by publicly available data at http://insideairbnb.com (following the link provides additional descriptions regarding the data set as well as licensing information). Also, the ```.geojson```object used to draw the choropleth map of Berlin districts was provided by https://www.technologiestiftung-berlin.de/.
