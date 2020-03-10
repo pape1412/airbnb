@@ -43,4 +43,4 @@ Out of 12 districts in Berlin, _Mitte_ appears to be the most popular one by far
 For more detailed findings please refer to the _notebooks_ folder and [this](https://medium.com/@patrickpeltier/renting-out-your-apartment-in-berlin-3c7a6d685392) Medium blog post.
 
 ## Acknowledgements
-I'd like to thank http://insideairbnb.com for providing the data for public use (following the link provides additional descriptions regarding the data set as well as licensing information). Also, I'd like to thank https://www.technologiestiftung-berlin.de/ for providing the ```.geojson```object used to draw the choropleth map of Berlin districts.
+This mini project was mainly fueled by publicly available data at http://insideairbnb.com (following the link provides additional descriptions regarding the data set as well as licensing information). Also, the ```.geojson```object used to draw the choropleth map of Berlin districts was provided by https://www.technologiestiftung-berlin.de/.
